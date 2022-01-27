@@ -176,3 +176,5 @@ to get started.
 
 If you are not a developer, you may also contribute financially to
 incentivise the development of any custom feature you need.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shivansh2006/tgcf)
